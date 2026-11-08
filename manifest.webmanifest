@@ -1,0 +1,21 @@
+{
+  "name": "سنگارا | کاتالوگ سنگ مصنوعی و رزین",
+  "short_name": "سنگارا",
+  "description": "نمایش محصولات و فهرست انتخاب‌ها؛ قیمت‌ها و موجودی نمونه هستند.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#4e5b3d",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./public/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
